@@ -90,3 +90,6 @@ With enhancements like user authentication, dynamic data collection, or advanced
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/3845e0ef-4ee1-4299-9922-4f785c39a986)
+![Image](https://github.com/user-attachments/assets/5eb478c6-63ef-4cba-b2f5-068e1e246e52)
+
